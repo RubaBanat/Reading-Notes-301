@@ -65,7 +65,7 @@ Here is an example from W3School try it by yourself [go-there](https://www.w3sch
 
 **What is SMACCS :**
 
-![SMACSS](imgs/SMACCS.PNG)
+![SMACSS](imgs/smaccs.PNG)
 
 
 *(Scalable and Modular Architecture for CSS ) is a css methodology that designed by Jonathan Snook in 2011.*
