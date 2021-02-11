@@ -11,6 +11,7 @@ Responsive Web Design is about using HTML and CSS to automatically resize, hide,
 
 Here is an example from W3School try it by yourself [go-there](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_responsive_page)
 
+
 **Setting The Viewport**
 
 *To create a responsive website, add the following `<meta>` tag to all your web pages*
