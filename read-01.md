@@ -1,4 +1,4 @@
- # SMACSS and Responsive Web Design
+ ## SMACSS and Responsive Web Design
 
  ![RWD](imgs/RWD.png)
 
