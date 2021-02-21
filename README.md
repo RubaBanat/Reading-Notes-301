@@ -9,7 +9,7 @@
 ---
 
 
-Day | Link
+Day | Class Link
 ------------ | -------------
 Day 1 | [Read 01](https://rubabanat.github.io/Reading-Notes-301/read-01)
 Day 2 | [Read 02](https://rubabanat.github.io/Reading-Notes-301/read-02)
