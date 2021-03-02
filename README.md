@@ -25,7 +25,9 @@ Day 11| [Read 11](https://rubabanat.github.io/Reading-Notes-301/read-11)
 Day 12| [Read 12](https://rubabanat.github.io/Reading-Notes-301/read-12)
 Day 13| [Read 13](https://rubabanat.github.io/Reading-Notes-301/read-13)
 Day 14| [Read 14](https://rubabanat.github.io/Reading-Notes-301/read-14)
+Day 14| [Read 14b](https://rubabanat.github.io/Reading-Notes-301/read-14b)
 Day 15| [Read 15]()
+
 
 
 
